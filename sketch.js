@@ -41,7 +41,7 @@ function preload() {
     birdFlySound=loadSound("sounds/bird_flying.mp3")
     pigSnortSound=loadSound("sounds/pig_snort.mp3")
     birdSelectSound=loadSound("sounds/bird_select.mp3")
-    coin=loadImage("Sprites/coin.gif")
+    coin=loadImage("coin.gif")
     coin.scale=100;
     
 }
